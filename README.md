@@ -54,19 +54,23 @@ Italian (native), English (fluent), Spanish (basic), French (basic)
 
 ## Experience
 
-**International Organization for Migration (IOM) – Geneva, Switzerland** (April  2018 - December 2018, February 2019 - August 2019) 
+**International Organization for Migration (IOM) – Geneva, Switzerland** 
+(April  2018 - December 2018, February 2019 - August 2019) 
 *Human Resources Policy Officer*  
 - Any experience relevent to software development
 
-**British Red Cross － London, UK** (April 2017 - March 2018)   
+**British Red Cross － London, UK** 
+(April 2017 - March 2018)   
 *Workforce Policy Advisor*  
 - Any experience relevent to software development
 
-**International Fund for Agricultural Development (IFAD) － Rome, Italy** (October 2014 - April 2017)   
+**International Fund for Agricultural Development (IFAD) － Rome, Italy** 
+(October 2014 - April 2017)   
 *Human Resources Analyst*  
 - Any experience relevent to software development
 
-**World Wide Fund for Nature (WWF-Australia) – Sydney, Australia** (February 2013 - September 2014)   
+**World Wide Fund for Nature (WWF-Australia) – Sydney, Australia** 
+(February 2013 - September 2014)   
 *Human Resources Officer*  
 - Any experience relevent to software development
 
