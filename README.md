@@ -30,13 +30,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Central Queensland University, Sydney – Australia (July 2010 - June 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Graduate Diploma in Management (HR major)
 
-#### Any other qualifications
+#### Macquarie University, Sydney – Australia (February 2008 – September 2009)
+
+- Master of International Business and Master of Arts in International Communication
+
+#### Bocconi University, Milan - Italy (September 2004 – September 2007)
+
+- Bachelor Degree in Business Administration (CLEA - English language)
+- Undergraduate Exchange Program at University of Melbourne, Melbourne – Australia (February 2007 – July 2007)	
+
+#### Other qualifications
 
 - In March 2017, I have completed the Level 5 Diploma in Human Resources Management and accreditation as Associate of the Chartered Institute for Personnel and Development (CIPD).
 -	I am also completing a coaching certification course for accreditation with the International Coaching Federation.
