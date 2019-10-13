@@ -21,6 +21,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Language Skills
+
+Italian (native), English (fluent), Spanish (basic), French (basic)
+
 ## Education
 
 #### Makers Academy (October 2019 to January 2020)
@@ -50,12 +54,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**International Organization for Migration (IOM) – Geneva, Switzerland** (April  2018 - December 2018, February 2019 - August 2019) 
+*Human Resources Policy Officer*  
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**British Red Cross － London, UK** (April 2017 - March 2018)   
+*Workforce Policy Advisor*  
+- Any experience relevent to software development
+
+**International Fund for Agricultural Development (IFAD) － Rome, Italy** (October 2014 - April 2017)   
+*Human Resources Analyst*  
+- Any experience relevent to software development
+
+**World Wide Fund for Nature (WWF-Australia) – Sydney, Australia** (February 2013 - September 2014)   
+*Human Resources Officer*  
+- Any experience relevent to software development
+
+**CREATE Foundation － Sydney, Australia** (February 2012 - February 2013)   
+*Human Resources Administrator*  
+- Any experience relevent to software development
+
+**Terrapinn Australia – Sydney, Australia** (February 2011 - November 2011)   
+*Recruitment Coordinator*  
 - Any experience relevent to software development
 
 ## Hobbies
