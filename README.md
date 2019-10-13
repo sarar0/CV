@@ -5,6 +5,7 @@ I have mainly worked for international not-for-profit organisations and my profe
 Why coding? I believe this is a discipline that requires a methodical, analytical way of thinking - and patience too - and that can be very rewarding when you are able to create something from start to finish and take full ownership of projects. 
 
 ## Skills
+TO BE INSERTED: analytical, adaptability, working across teams, seeing dependabilities. 
 
 #### This Skill
 
@@ -57,30 +58,26 @@ Italian (native), English (fluent), Spanish (basic), French (basic)
 **International Organization for Migration (IOM) – Geneva, Switzerland** 
 (April  2018 - December 2018, February 2019 - August 2019) 
 *Human Resources Policy Officer*  
-- Any experience relevent to software development
+- Any experience relevent to software development DEVELOPED SPECS FOR PM SOFTWARE
 
 **British Red Cross － London, UK** 
 (April 2017 - March 2018)   
 *Workforce Policy Advisor*  
-- Any experience relevent to software development
 
 **International Fund for Agricultural Development (IFAD) － Rome, Italy** 
 (October 2014 - April 2017)   
 *Human Resources Analyst*  
-- Any experience relevent to software development
+- Any experience relevent to software development WORKED ON TESTING AND DEPLOYMENT OF RECRUITMENT SYSTEM
 
 **World Wide Fund for Nature (WWF-Australia) – Sydney, Australia** 
 (February 2013 - September 2014)   
 *Human Resources Officer*  
-- Any experience relevent to software development
 
 **CREATE Foundation － Sydney, Australia** (February 2012 - February 2013)   
 *Human Resources Administrator*  
-- Any experience relevent to software development
 
 **Terrapinn Australia – Sydney, Australia** (February 2011 - November 2011)   
 *Recruitment Coordinator*  
-- Any experience relevent to software development
 
 ## Hobbies
 
