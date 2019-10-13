@@ -1,10 +1,10 @@
-## Your Name
+## Sara
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am originally from Italy but I have lived in Australia and in Switzerland before moving to the UK. 
+I have mainly worked for international not-for-profit organisations and my professional background is in Human Resources, more specifically HR policies. 
+Why coding? I believe this is a discipline that requires a methodical, analytical way of thinking - and patience too - and that can be very rewarding when you are able to create something from start to finish and take full ownership of projects. 
 
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
 #### This Skill
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2019 to January 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -38,7 +38,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- In March 2017, I have completed the Level 5 Diploma in Human Resources Management and accreditation as Associate of the Chartered Institute for Personnel and Development (CIPD).
+-	I am also completing a coaching certification course for accreditation with the International Coaching Federation.
 
 ## Experience
 
@@ -52,4 +53,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I love marine turtles and interior design. I have recently volunteered in a hospital for marine turtles and I will do this again as soon as I get the chance. Interior design is more of a hobby for me but I have also completed a professional course and obtained a Diploma of Professional Interior Design.
