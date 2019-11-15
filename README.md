@@ -5,22 +5,9 @@ I have mainly worked for international not-for-profit organisations and my profe
 Why coding? I believe this is a discipline that requires a methodical, analytical way of thinking - and patience too - and that can be very rewarding when you are able to create something from start to finish and take full ownership of projects. 
 
 ## Skills
-TO BE INSERTED: analytical, adaptability, working across teams, seeing dependabilities. 
 
-#### This Skill
+Analytical, adaptability, working across teams, seeing dependabilities. (expand on this)
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Language Skills
 
@@ -34,6 +21,8 @@ Italian (native), English (fluent), Spanish (basic), French (basic)
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+
+⁄⁄ADD: SQL (and/or Postgres?), jQuery ??
 
 #### Central Queensland University, Sydney – Australia (July 2010 - June 2011)
 
@@ -58,7 +47,8 @@ Italian (native), English (fluent), Spanish (basic), French (basic)
 **International Organization for Migration (IOM) – Geneva, Switzerland** 
 (April  2018 - December 2018, February 2019 - August 2019) 
 *Human Resources Policy Officer*  
-- Any experience relevent to software development DEVELOPED SPECS FOR PM SOFTWARE
+- Experience relevant to software development:
+DEVELOPED SPECS FOR PM SOFTWARE (expand on this)
 
 **British Red Cross － London, UK** 
 (April 2017 - March 2018)   
@@ -67,7 +57,8 @@ Italian (native), English (fluent), Spanish (basic), French (basic)
 **International Fund for Agricultural Development (IFAD) － Rome, Italy** 
 (October 2014 - April 2017)   
 *Human Resources Analyst*  
-- Any experience relevent to software development WORKED ON TESTING AND DEPLOYMENT OF RECRUITMENT SYSTEM
+- Any experience relevant to software development:
+WORKED ON TESTING AND DEPLOYMENT OF RECRUITMENT SYSTEM (expand on this)
 
 **World Wide Fund for Nature (WWF-Australia) – Sydney, Australia** 
 (February 2013 - September 2014)   
