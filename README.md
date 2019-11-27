@@ -1,4 +1,4 @@
-## Sara
+# Sara
 
 I am originally from Italy but I have lived in Australia and in Switzerland before moving to the UK. 
 I have mainly worked for international not-for-profit organisations and my professional background is in Human Resources, more specifically HR policies. 
@@ -49,6 +49,7 @@ Italian (native), English (fluent), Spanish (basic), French (basic)
 *Human Resources Policy Officer*  
 - Experience relevant to software development:
 DEVELOPED SPECS FOR PM SOFTWARE (expand on this)
+In January 2019, I went to the Cook Islands to volunteer for the Cook Islands Red Cross as HR Policy Consultant. 
 
 **British Red Cross － London, UK** 
 (April 2017 - March 2018)   
