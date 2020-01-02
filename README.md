@@ -2,11 +2,14 @@
 
 I am originally from Italy but I have lived in Australia and in Switzerland before moving to the UK. 
 Before joining Makers, I had mainly worked for international not-for-profit organisations and my professional background is in Human Resources, more specifically HR policies. 
-Why coding? I believe this is a discipline that requires a methodical, analytical way of thinking - and patience too - and that can be very rewarding when you are able to create something from start to finish and take full ownership of projects. 
+Why coding? I believe this is a discipline that requires a methodical, analytical way of thinking - and patience too - and that can be very rewarding when you are able to take full ownership of projects and create something from start to finish. 
 
 ## Skills
 
-Analytical, adaptability, working across teams, project coordination. 
+ - Analytical
+ - Project coordination
+ - Adaptability
+ - Working across teams 
 
 #### Language Skills
 
@@ -39,7 +42,7 @@ Italian (native), English (fluent), Spanish (basic), French (basic)
 #### Other qualifications
 
 - In March 2017, I have completed the Level 5 Diploma in Human Resources Management and accreditation as Associate of the Chartered Institute for Personnel and Development (CIPD).
--	I am also completing a coaching certification course for accreditation with the International Coaching Federation.
+-	In 2017 I have also attended a coaching certification course, which is accredited with the International Coaching Federation.
 
 ## Experience
 
