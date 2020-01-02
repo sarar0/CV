@@ -6,8 +6,7 @@ Why coding? I believe this is a discipline that requires a methodical, analytica
 
 ## Skills
 
-Analytical, adaptability, working across teams, seeing dependabilities. (expand on this)
-
+Analytical, adaptability, working across teams, project coordination. 
 
 #### Language Skills
 
@@ -21,8 +20,8 @@ Italian (native), English (fluent), Spanish (basic), French (basic)
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
-
-⁄⁄ADD: SQL (and/or Postgres?), jQuery ??
+- SQL (Postgres)
+- jQuery
 
 #### Central Queensland University, Sydney – Australia (July 2010 - June 2011)
 
@@ -48,7 +47,7 @@ Italian (native), English (fluent), Spanish (basic), French (basic)
 (April  2018 - December 2018, February 2019 - August 2019) 
 *Human Resources Policy Officer*  
 - Experience relevant to software development:
-DEVELOPED SPECS FOR PM SOFTWARE (expand on this)
+I developed the business requirements and workflow for the revised Performance Management system. My role was to translate the existing policy, as well as upcoming policy changes, into user requirements to be handed over to the IT project team.
 
 *In January 2019, I went to the Cook Islands to volunteer for the Cook Islands Red Cross as HR Policy Consultant.*
 
@@ -59,8 +58,8 @@ DEVELOPED SPECS FOR PM SOFTWARE (expand on this)
 **International Fund for Agricultural Development (IFAD) － Rome, Italy** 
 (October 2014 - April 2017)   
 *Human Resources Analyst*  
-- Any experience relevant to software development:
-WORKED ON TESTING AND DEPLOYMENT OF RECRUITMENT SYSTEM (expand on this)
+- Experience relevant to software development:
+I was one of the key resource people in a project team working on developing and implementing a new e-Recruitment platform in the HRIS. My role entailed extensive system testing, problem solving, redefining requirements and training end-users.
 
 **World Wide Fund for Nature (WWF-Australia) – Sydney, Australia** 
 (February 2013 - September 2014)   
