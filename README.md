@@ -2,9 +2,10 @@
 <h1>Sara Rancati</h1>
 
 <a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/JavaScript-241%20commits-yellow.svg" alt=""></a>
-<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/Ruby-88%20commits-red.svg" alt=""></a>
+<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/Ruby-197%20commits-red.svg" alt=""></a>
 <a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/CSS-242%20commits-green.svg" alt=""></a>
 <a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/HTML-142%20commits-blue.svg" alt=""></a>
+<a href="https://www.codewars.com/users/sarar0"><img src="https://www.codewars.com/users/sarar0/badges/micro" alt=""></a>
 </div>
 
 I am a full stack developer having graduated from <a href="https://makers.tech/">Makers Academy</a> in January 2020. Before joining Makers, I had mainly worked for international not-for-profit organisations and my professional background is in Human Resources, more specifically HR policies. While in these roles I was able to develop analytical, logical thinking and problem-solving skills, as well as getting project management experience. <br>
@@ -55,26 +56,27 @@ GreenPrint: <a href="https://github.com/sarar0/Project_Greenprint_Frontend">fron
 <details><summary><b>Education</b></summary>
 <p>
 
-#### Makers Academy (October 2019 to January 2020)
+- #### Makers Academy (October 2019 to January 2020)
 
 Makers is a 16-week intensive development bootcamp, focusing on:
-- Object-Oriented Design and Test-Driven Development 
-- Ruby, Rails, Sinatra, HTML, CSS, JavaScript, React, SQL, Node, JQuery, JS Vanilla, SQL
-- Pair programming, Agile process
-- Testing frameworks: RSpec, Capybara, Jasmine
 
-#### Central Queensland University, Sydney – Australia (July 2010 - June 2011)
+    - Object-Oriented Design and Test-Driven Development 
+    - Ruby, Rails, Sinatra, HTML, CSS, JavaScript, React, SQL, Node, JQuery, JS Vanilla, SQL
+    - Pair programming, Agile process
+    - Testing frameworks: RSpec, Capybara, Jasmine
 
-- Graduate Diploma in Management (HR major)
+- #### Central Queensland University, Sydney – Australia (July 2010 - June 2011)
 
-#### Macquarie University, Sydney – Australia (February 2008 – September 2009)
+    - Graduate Diploma in Management (HR major)
 
-- Master of International Business and Master of Arts in International Communication
+- #### Macquarie University, Sydney – Australia (February 2008 – September 2009)
 
-#### Bocconi University, Milan - Italy (September 2004 – September 2007)
+    - Master of International Business and Master of Arts in International Communication
 
-- Bachelor's Degree in Business Administration (CLEA - English language)
-- Undergraduate Exchange Program at University of Melbourne, Melbourne – Australia (February 2007 – July 2007)	
+- #### Bocconi University, Milan - Italy (September 2004 – September 2007)
+
+    - Bachelor's Degree in Business Administration (CLEA - English language)
+    - Undergraduate Exchange Program at University of Melbourne, Melbourne – Australia (February 2007 – July 2007)	
 
 #### Other qualifications
 
@@ -87,36 +89,35 @@ Makers is a 16-week intensive development bootcamp, focusing on:
 <details><summary><b>Experience</b></summary>
 <p>
 
-**International Organization for Migration (IOM) (UN Migration agency) – Geneva, Switzerland and London, UK** <br>
+- **International Organization for Migration (IOM) (UN Migration agency) – Geneva, Switzerland and London, UK** <br>
 (April  2018 - December 2018, February 2019 - August 2019) <br>
 *Human Resources Policy Officer*  
-- Experience relevant to software development:
-I developed the business requirements and workflow for the revised Performance Management system. My role was to translate the existing policy, as well as upcoming policy changes, into user requirements to be handed over to the IT project team.
+
+```I developed the business requirements and workflow for the revised Performance Management system. My role was to translate the existing policy, as well as upcoming policy changes, into user requirements to be handed over to the IT project team.```
 
 *In January 2019, I went to the Cook Islands to volunteer for the Cook Islands Red Cross as HR Policy Consultant.*
 
-**British Red Cross － London, UK** <br>
+- **British Red Cross － London, UK** <br>
 (April 2017 - March 2018)   
 *Workforce Policy Advisor*  
 
-**International Fund for Agricultural Development (IFAD) (UN agency)－ Rome, Italy** <br>
+- **International Fund for Agricultural Development (IFAD) (UN agency)－ Rome, Italy** <br>
 (October 2014 - April 2017)<br>
 *Human Resources Analyst* 
 
 I was appointed to this role as a Junior Professional Officer, through a competitive programme sponsored by the Italian Government. 
 
-- Experience relevant to software development:
-I was one of the key resource people in a project team working on developing and implementing a new e-Recruitment platform in the HRIS. My role entailed extensive system testing, problem solving and redefining requirements. I have also worked with the internal communications department in developing communication activities to inform staff of the system changes and provided training to key users. 
+```I was one of the key resource people in a project team working on developing and implementing a new e-Recruitment platform in the HRIS. My role entailed extensive system testing, problem solving and redefining requirements. I have also worked with the internal communications department in developing communication activities to inform staff of the system changes and provided training to key users.```
 
-**World Wide Fund for Nature (WWF-Australia) – Sydney, Australia** <br>
+- **World Wide Fund for Nature (WWF-Australia) – Sydney, Australia** <br>
 (February 2013 - September 2014)<br>
 *Human Resources Officer*  
 
-**CREATE Foundation － Sydney, Australia** <br>
+- **CREATE Foundation － Sydney, Australia** <br>
 (February 2012 - February 2013)<br>
 *Human Resources Administrator*  
 
-**Terrapinn Australia – Sydney, Australia**<br>
+- **Terrapinn Australia – Sydney, Australia**<br>
 (February 2011 - November 2011)<br>
 *Recruitment Coordinator*  
 
