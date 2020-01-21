@@ -19,19 +19,19 @@ I believe working as a software developer requires a methodical, analytical way 
 <details><summary><b>Skills</b></summary>
 <p>
 
-#### Analysis and logical thinking
+- #### Analysis and logical thinking
 
 In my last three jobs my primary responsibility was to develop, review and implement HR policies and procedures. This requires extensive research, analysis and internal/external benchmarking. Through this experience, I also acquired the ability to use a logical, structured approach when solving problems, which is a skill that I have applied and further developed during my time at Makers as well.
 
-#### Project management and communication
+- #### Project management and communication
 
 Policy reviews follow a structured project cycle, which includes set phases/milestones, internal communication plans, monitoring and reporting, as well as extensive stakeholder engagement. I learned how to work independently, set my own deadlines and priorities, while at the same time keeping communication flowing across teams and with management. 
 
-#### Flexibility and adaptability
+- #### Flexibility and adaptability
 
 I have lived, studied and worked in four different countries and this has taught me to be flexible, keep an open-mind and adapt to changing environments. Throughout my academic studies and in all my previous roles, I have always had the fortune of working in multi-cultural teams and learning from people from different backgrounds. 
 
-#### Language Skills
+- #### Language Skills
 
 Italian (native), English (fluent), Spanish (basic), French (basic). Currently learning Turkish.
 
