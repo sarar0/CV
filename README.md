@@ -1,9 +1,16 @@
-<h1 align="center">Sara Rancati</h1>
+<div  align="center">
+<h1>Sara Rancati</h1>
 
-I graduated as full stack developer from <a href="https://makers.tech/">Makers Academy</a> in January 2020. Before joining Makers, I had mainly worked for international not-for-profit organisations and my professional background is in Human Resources, more specifically HR policies. <br>
+<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/JavaScript-241%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/Ruby-88%20commits-red.svg" alt=""></a>
+<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/CSS-242%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/HTML-142%20commits-blue.svg" alt=""></a>
+</div>
 
-*Why I started coding* 
-<br>I basically wanted a new challenge. I believe this is a discipline that requires a methodical, analytical way of thinking - and patience too - and that can be very rewarding when you are able to take full ownership of projects and see something develop from a simple idea to a full product.
+I am a full stack developer having graduated from <a href="https://makers.tech/">Makers Academy</a> in January 2020. Before joining Makers, I had mainly worked for international not-for-profit organisations and my professional background is in Human Resources, more specifically HR policies. While in these roles I was able to develop analytical, logical thinking and problem-solving skills, as well as getting project management experience. <br>
+
+I believe working as a software developer requires a methodical, analytical way of thinking and I see this as the perfect way of applying my technical skills and interpersonal competencies. I think this profession can be very rewarding when you are able to take full ownership of projects and see something develop from a simple idea to a full product.
+
 
 **Please click on the drop downs below to expand**
 <br>
@@ -11,13 +18,13 @@ I graduated as full stack developer from <a href="https://makers.tech/">Makers A
 <details><summary><b>Skills</b></summary>
 <p>
 
-<h4>Analysis and problem solving</h4>
+#### Analysis and logical thinking
 
 In my last three jobs my primary responsibility was to develop, review and implement HR policies and procedures. This requires extensive research, analysis and internal/external benchmarking. Through this experience, I also acquired the ability to use a logical, structured approach when solving problems, which is a skill that I have applied and further developed during my time at Makers as well.
 
-#### Project management
+#### Project management and communication
 
-Policy reviews follow a structured project cycle, which includes set phases/milestones, internal communication plans, monitoring and reporting, as well as extensive stakeholder engagement. I learned how to work independently, set my own deadlines and priorities, while at the same time keeping communication flowing across teams.
+Policy reviews follow a structured project cycle, which includes set phases/milestones, internal communication plans, monitoring and reporting, as well as extensive stakeholder engagement. I learned how to work independently, set my own deadlines and priorities, while at the same time keeping communication flowing across teams and with management. 
 
 #### Flexibility and adaptability
 
@@ -94,7 +101,10 @@ I developed the business requirements and workflow for the revised Performance M
 
 **International Fund for Agricultural Development (IFAD) (UN agency)－ Rome, Italy** <br>
 (October 2014 - April 2017)<br>
-*Human Resources Analyst*  
+*Human Resources Analyst* 
+
+I was appointed to this role as a Junior Professional Officer, through a competitive programme sponsored by the Italian Government. 
+
 - Experience relevant to software development:
 I was one of the key resource people in a project team working on developing and implementing a new e-Recruitment platform in the HRIS. My role entailed extensive system testing, problem solving and redefining requirements. I have also worked with the internal communications department in developing communication activities to inform staff of the system changes and provided training to key users. 
 
