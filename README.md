@@ -1,19 +1,25 @@
-# Sara Rancati
+<h1>Sara Rancati</h1>
 
-[Skills ](#skills) |
+<!-- [Skills ](#skills) |
 [Projects ](#projects) |
 [Education ](#education) |
 [Experience ](#experience) |
 [Interests ](#hobbies-and-interests) |
-[Contact details ](#contact-details)
+[Contact details ](#contact-details) -->
 
 
 I graduated as full stack developer from <a href="https://makers.tech/">Makers Academy</a> in January 2020. Before joining Makers, I had mainly worked for international not-for-profit organisations and my professional background is in Human Resources, more specifically HR policies. <br>
-*Why coding?* I believe this is a discipline that requires a methodical, analytical way of thinking - and patience too - and that can be very rewarding when you are able to take full ownership of projects and create something from start to finish. 
 
-## Skills
+*Why I started coding* 
+<br>I basically wanted a new challenge. I believe this is a discipline that requires a methodical, analytical way of thinking - and patience too - and that can be very rewarding when you are able to take full ownership of projects and create something from start to finish. 
 
-#### Analysis and problem solving
+**Please click on the drop downs below to expand**
+<br>
+
+<details><summary><b>Skills</b></summary>
+<p>
+
+<h4>Analysis and problem solving</h4>
 
 In my last three jobs my primary responsibility was to develop, review and implement HR policies and procedures. This requires extensive research, analysis and internal/external benchmarking. Through this experience, I also acquired the ability to use a logical, structured approach when solving problems, which is a skill that I have applied and further developed during my time at Makers as well.
 
@@ -29,7 +35,11 @@ I have lived, studied and worked in four different countries and this has taught
 
 Italian (native), English (fluent), Spanish (basic), French (basic). Currently learning Turkish.
 
-## Projects
+</p>
+</details>
+
+<details><summary><b>Projects</b></summary>
+<p>
 
 | Title | Description | Development Timeframe | Technologies Used
 | :-- | :-- | :-- | :-- |
@@ -40,7 +50,11 @@ GreenPrint: <a href="https://github.com/sarar0/Project_Greenprint_Frontend">fron
 | <a href="https://github.com/sarar0/Week-5--Bowling-challenge">Bowling challenge</a> | This is 10 pin bowling scorecard, with an interface displaying a table with scores for each frame. | 4 days | Javascript, HTML, CSS, Jasmine, jQuery |
 | <a href="https://github.com/sarar0/AboutMe">'About Me' website</a> | This is the very first website I have built. I wanted to practice basic JavaScript by inserting an image carousel. | 4 days | Javascript, HTML, CSS |
 
-## Education
+</p>
+</details>
+
+<details><summary><b>Education</b></summary>
+<p>
 
 #### Makers Academy (October 2019 to January 2020)
 
@@ -68,7 +82,11 @@ Makers is a 16-week intensive development bootcamp, focusing on:
 - In March 2017, I have completed the Level 5 Diploma in Human Resources Management and accreditation as Associate of the Chartered Institute for Personnel and Development (CIPD).
 - In 2017 I have also attended a coaching certification course, which is accredited with the International Coaching Federation.
 
-## Experience
+</p>
+</details>
+
+<details><summary><b>Experience</b></summary>
+<p>
 
 **International Organization for Migration (IOM) (UN Migration agency) – Geneva, Switzerland and London, UK** <br>
 (April  2018 - December 2018, February 2019 - August 2019) <br>
@@ -100,11 +118,19 @@ I was one of the key resource people in a project team working on developing and
 (February 2011 - November 2011)<br>
 *Recruitment Coordinator*  
 
-## Interests and hobbies
+</p>
+</details>
 
-- I love marine turtles and interior design. I have recently volunteered in a hospital for marine turtles and I will do this again as soon as I get the chance. 
-- Interior design is more of a hobby for me, but I have also completed a professional course and obtained a Diploma of Professional Interior Design.
+<details><summary><b>Interests and hobbies</b></summary>
+<p>
 
-## Contact details
+I love marine turtles and interior design. I have recently volunteered in a hospital for marine turtles and I will do this again as soon as I get the chance. Interior design is more of a hobby for me, but I have also completed a professional course and obtained a Diploma of Professional Interior Design.
 
+</p>
+</details>
+
+<details><summary><b>Contact details</b></summary>
+<p>
 <a href="mailto:srancati0@gmail.com">Email</a> 
+</p>
+</details>
