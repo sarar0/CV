@@ -58,8 +58,7 @@ GreenPrint: <a href="https://github.com/sarar0/Project_Greenprint_Frontend">fron
 
 - #### Makers Academy (October 2019 to January 2020)
 
-Makers is a 16-week intensive development bootcamp, focusing on:
-
+    Makers is a 16-week intensive development bootcamp, focusing on:
     - Object-Oriented Design and Test-Driven Development 
     - Ruby, Rails, Sinatra, HTML, CSS, JavaScript, React, SQL, Node, JQuery, JS Vanilla, SQL
     - Pair programming, Agile process
@@ -93,7 +92,7 @@ Makers is a 16-week intensive development bootcamp, focusing on:
 (April  2018 - December 2018, February 2019 - August 2019) <br>
 *Human Resources Policy Officer*  
 
-```I developed the business requirements and workflow for the revised Performance Management system. My role was to translate the existing policy, as well as upcoming policy changes, into user requirements to be handed over to the IT project team.```
+    ```I developed the business requirements and workflow for the revised Performance Management system. My role was to translate the existing policy, as well as upcoming policy changes, into user requirements to be handed over to the IT project team.```
 
 *In January 2019, I went to the Cook Islands to volunteer for the Cook Islands Red Cross as HR Policy Consultant.*
 
@@ -105,9 +104,9 @@ Makers is a 16-week intensive development bootcamp, focusing on:
 (October 2014 - April 2017)<br>
 *Human Resources Analyst* 
 
-I was appointed to this role as a Junior Professional Officer, through a competitive programme sponsored by the Italian Government. 
+    I was appointed to this role as a Junior Professional Officer, through a competitive programme sponsored by the Italian Government. 
 
-```I was one of the key resource people in a project team working on developing and implementing a new e-Recruitment platform in the HRIS. My role entailed extensive system testing, problem solving and redefining requirements. I have also worked with the internal communications department in developing communication activities to inform staff of the system changes and provided training to key users.```
+    ```I was one of the key resource people in a project team working on developing and implementing a new e-Recruitment platform in the HRIS. My role entailed extensive system testing, problem solving and redefining requirements. I have also worked with the internal communications department in developing communication activities to inform staff of the system changes and provided training to key users.```
 
 - **World Wide Fund for Nature (WWF-Australia) – Sydney, Australia** <br>
 (February 2013 - September 2014)<br>
