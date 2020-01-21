@@ -1,12 +1,4 @@
-<h1>Sara Rancati</h1>
-
-<!-- [Skills ](#skills) |
-[Projects ](#projects) |
-[Education ](#education) |
-[Experience ](#experience) |
-[Interests ](#hobbies-and-interests) |
-[Contact details ](#contact-details) -->
-
+<h1 align="center">Sara Rancati</h1>
 
 I graduated as full stack developer from <a href="https://makers.tech/">Makers Academy</a> in January 2020. Before joining Makers, I had mainly worked for international not-for-profit organisations and my professional background is in Human Resources, more specifically HR policies. <br>
 
@@ -131,6 +123,7 @@ I love marine turtles and interior design. I have recently volunteered in a hosp
 
 <details><summary><b>Contact details</b></summary>
 <p>
+
 <a href="mailto:srancati0@gmail.com">Email</a> 
 </p>
 </details>
