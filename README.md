@@ -3,7 +3,7 @@
 I graduated as full stack developer from <a href="https://makers.tech/">Makers Academy</a> in January 2020. Before joining Makers, I had mainly worked for international not-for-profit organisations and my professional background is in Human Resources, more specifically HR policies. <br>
 
 *Why I started coding* 
-<br>I basically wanted a new challenge. I believe this is a discipline that requires a methodical, analytical way of thinking - and patience too - and that can be very rewarding when you are able to take full ownership of projects and create something from start to finish. 
+<br>I basically wanted a new challenge. I believe this is a discipline that requires a methodical, analytical way of thinking - and patience too - and that can be very rewarding when you are able to take full ownership of projects and see something develop from a simple idea to a full product.
 
 **Please click on the drop downs below to expand**
 <br>
