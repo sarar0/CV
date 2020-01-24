@@ -1,9 +1,8 @@
 <div  align="center">
 <h1>Sara Rancati</h1>
 
-<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/JavaScript-241%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/JavaScript-266%20commits-yellow.svg" alt=""></a>
 <a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/Ruby-197%20commits-red.svg" alt=""></a>
-<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/CSS-242%20commits-green.svg" alt=""></a>
 <a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/HTML-142%20commits-blue.svg" alt=""></a>
 <a href="https://www.codewars.com/users/sarar0"><img src="https://www.codewars.com/users/sarar0/badges/micro" alt=""></a>
 </div>
@@ -45,7 +44,7 @@ Italian (native), English (fluent), Spanish (basic), French (basic). Currently l
 | :-- | :-- | :-- | :-- |
 GreenPrint: <a href="https://github.com/sarar0/Project_Greenprint_Frontend">frontend</a>, <a href="https://github.com/sarar0/Project_Greenprint_Backend">backend</a> | Final group project of Makers Academy. GreenPrint is a travel app that helps users calculate and monitor the amount of carbon their travel produces. It has a search function that calculates travel routes (and associated carbon emissions) and a personalised dashboard where users can keep track of their carbon footprint. It is built as two separate apps: frontend in React and backend in Express and Node. | 2 weeks | React, Javascript, Mongo, Express, Node, Jest, Cypress, Travis, Heroku |
 |<a href="https://github.com/sarar0/Week-8--SpaceBook">SpaceBook</a> | Group project. A replica of Facebook: users can sign up and login, post something, see other people's posts and comment on them. | 2 weeks | Ruby on Rails, HTML, CSS, Capybara, RSpec, Travis, Heroku |
-|<a href="https://github.com/sarar0/Week-8--Instagram-challenge">Instagram challenge</a> | This is replica of Instagram. I have used this challenge to learn React (on Rails) by following a tutorial. | 4 days | React, Ruby on Rails, HTML, CSS |
+|<a href="https://github.com/sarar0/Week-8--Instagram-challenge">Instagram challenge</a> | This is replica of Instagram. I have used this challenge to learn React (on Ruby on Rails) by following a tutorial. | 4 days | React, Ruby on Rails, HTML, CSS |
 | <a href="https://github.com/sarar0/Week-7--News-summary-challenge">News summary challenge</a> | The app gathers headlines from the Guardian newspaper API and displays them on a page, with the relevant images. Clicking on a headline shows a summary of the article. | 2 days | Javascript, HTML, CSS |
 | <a href="https://github.com/sarar0/Week-5--Bowling-challenge">Bowling challenge</a> | This is 10 pin bowling scorecard, with an interface displaying a table with scores for each frame. | 4 days | Javascript, HTML, CSS, Jasmine, jQuery |
 | <a href="https://github.com/sarar0/AboutMe">'About Me' website</a> | This is the very first website I have built. I wanted to practice basic JavaScript by inserting an image carousel. | 4 days | Javascript, HTML, CSS |
