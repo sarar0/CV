@@ -1,9 +1,9 @@
 <div  align="center">
 <h1>Sara Rancati</h1>
 
-<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/JavaScript-266%20commits-yellow.svg" alt=""></a>
-<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/Ruby-197%20commits-red.svg" alt=""></a>
-<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/HTML-142%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/JavaScript-305%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/Ruby-201%20commits-red.svg" alt=""></a>
+<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/HTML-155%20commits-blue.svg" alt=""></a>
 <a href="https://www.codewars.com/users/sarar0"><img src="https://www.codewars.com/users/sarar0/badges/micro" alt=""></a>
 </div>
 
