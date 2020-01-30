@@ -11,7 +11,6 @@ I am a full stack developer having graduated from <a href="https://makers.tech/"
 
 I believe working as a software developer requires a methodical, analytical way of thinking and I see this as the perfect way of applying my technical skills and interpersonal competencies. I think this profession can be very rewarding when you are able to take full ownership of projects and see something develop from a simple idea to a full product.
 
-
 **Please click on the drop downs below to expand**
 <br>
 
