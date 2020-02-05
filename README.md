@@ -1,10 +1,10 @@
 <div  align="center">
 <h1>Sara Rancati</h1>
 
-<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/JavaScript-305%20commits-yellow.svg" alt=""></a>
-<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/Ruby-201%20commits-red.svg" alt=""></a>
-<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/HTML-155%20commits-blue.svg" alt=""></a>
-<a href="https://www.codewars.com/users/sarar0"><img src="https://www.codewars.com/users/sarar0/badges/micro" alt=""></a>
+<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/JavaScript-305%20commits-yellow.svg" target="_blank" alt=""></a>
+<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/Ruby-201%20commits-red.svg" target="_blank" alt=""></a>
+<a href="https://sourcerer.io/sarar0"><img src="https://img.shields.io/badge/HTML-155%20commits-blue.svg" target="_blank" alt=""></a>
+<a href="https://www.codewars.com/users/sarar0"><img src="https://www.codewars.com/users/sarar0/badges/micro" target="_blank" alt=""></a>
 </div>
 
 I am a full stack developer having graduated from <a href="https://makers.tech/">Makers Academy</a> in January 2020. Before joining Makers, I had mainly worked for international not-for-profit organisations and my professional background is in Human Resources, more specifically HR policies. While in these roles I was able to develop analytical, logical thinking and problem-solving skills, as well as getting project management experience. <br>
