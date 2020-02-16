@@ -58,7 +58,7 @@ GreenPrint: <a href="https://github.com/sarar0/Project_Greenprint_Frontend">fron
 
     Makers is a 16-week intensive development bootcamp, focusing on:
     - Object-Oriented Design and Test-Driven Development 
-    - Ruby, Rails, Sinatra, HTML, CSS, JavaScript, React, SQL, Node, JQuery, JS Vanilla, SQL
+    - Ruby, Rails, Sinatra, HTML, CSS, JavaScript, React, Node, JQuery, JS Vanilla, SQL
     - Pair programming, Agile process
     - Testing frameworks: RSpec, Capybara, Jasmine
 
