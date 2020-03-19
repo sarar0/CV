@@ -87,9 +87,15 @@ GreenPrint: <a href="https://github.com/sarar0/Project_Greenprint_Frontend">fron
 <details><summary><b>Experience</b></summary>
 <p>
 
+- **International Organization for Migration (IOM) (UN Migration agency) – working remotely** <br> 
+(January 2019 - current)<br>
+*HR Policy Consultant*
+
+```My role is to plan, develop and implement a comprehensive HR Handbook on an online platform.```
+
 - **International Organization for Migration (IOM) (UN Migration agency) – Geneva, Switzerland and London, UK** <br>
 (April  2018 - December 2018, February 2019 - August 2019) <br>
-*Human Resources Policy Officer*  
+*HR Policy Officer*  
 
     ```I developed the business requirements and workflow for the revised Performance Management system. My role was to translate the existing policy, as well as upcoming policy changes, into user requirements to be handed over to the IT project team.```
 
@@ -101,7 +107,7 @@ GreenPrint: <a href="https://github.com/sarar0/Project_Greenprint_Frontend">fron
 
 - **International Fund for Agricultural Development (IFAD) (UN agency)－ Rome, Italy** <br>
 (October 2014 - April 2017)<br>
-*Human Resources Analyst* 
+*HR Analyst* 
 
     I was appointed to this role as a Junior Professional Officer, through a competitive programme sponsored by the Italian Government. 
 
@@ -109,11 +115,11 @@ GreenPrint: <a href="https://github.com/sarar0/Project_Greenprint_Frontend">fron
 
 - **World Wide Fund for Nature (WWF-Australia) – Sydney, Australia** <br>
 (February 2013 - September 2014)<br>
-*Human Resources Officer*  
+*HR Officer*  
 
 - **CREATE Foundation － Sydney, Australia** <br>
 (February 2012 - February 2013)<br>
-*Human Resources Administrator*  
+*HR Administrator*  
 
 - **Terrapinn Australia – Sydney, Australia**<br>
 (February 2011 - November 2011)<br>
