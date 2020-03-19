@@ -88,10 +88,10 @@ GreenPrint: <a href="https://github.com/sarar0/Project_Greenprint_Frontend">fron
 <p>
 
 - **International Organization for Migration (IOM) (UN Migration agency) – working remotely** <br> 
-(January 2019 - current)<br>
+(January 2020 - current)<br>
 *HR Policy Consultant*
 
-```My role is to plan, develop and implement a comprehensive HR Handbook on an online platform.```
+    ```My role is to plan, develop and implement a comprehensive HR Handbook on an online platform.```
 
 - **International Organization for Migration (IOM) (UN Migration agency) – Geneva, Switzerland and London, UK** <br>
 (April  2018 - December 2018, February 2019 - August 2019) <br>
