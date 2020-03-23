@@ -97,7 +97,7 @@ GreenPrint: <a href="https://github.com/sarar0/Project_Greenprint_Frontend">fron
 (April  2018 - December 2018, February 2019 - August 2019) <br>
 *HR Policy Officer*  
 
-    Experience relevant to software development: 
+    Experience relevant to software development: <br>
     ```As part of my role, I developed the business requirements and workflow for the revised Performance Management system. My role was to translate the existing policy, as well as upcoming policy changes, into user requirements to be handed over to the IT project team.```
 
 *In January 2019, I went to the Cook Islands to volunteer for the Cook Islands Red Cross as HR Policy Consultant.*
@@ -112,7 +112,7 @@ GreenPrint: <a href="https://github.com/sarar0/Project_Greenprint_Frontend">fron
 
     I was appointed to this role as a Junior Professional Officer, as part of a programme sponsored by the Italian Government. 
     
-    Experience relevant to software development: 
+    Experience relevant to software development: <br>
     ```I was one of the key resource people in a project team working on developing and implementing a new e-Recruitment platform in the HRIS. My role entailed extensive system testing, problem solving and redefining requirements. I have also worked with the internal communications department in developing communication activities to inform staff of the system changes and provided training to key users.```
 
 - **World Wide Fund for Nature (WWF-Australia) – Sydney, Australia** <br>
