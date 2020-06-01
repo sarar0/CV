@@ -56,6 +56,10 @@ GreenPrint: <a href="https://github.com/sarar0/Project_Greenprint_Frontend">fron
 <details><summary><b>Education</b></summary>
 <p>
 
+- #### Code In Place - remote course run by Stanford University (April - June 2020)
+
+    - CS106A - Code in Place is a free introductory programming course using the Python language, based on material from the first half of Stanford University's established intro course, CS106A.
+
 - #### Makers Academy (October 2019 to January 2020)
 
     Makers is a 16-week intensive development bootcamp, focusing on:
