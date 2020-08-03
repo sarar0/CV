@@ -17,6 +17,9 @@ I believe working as a software developer requires a methodical, analytical way 
 
 <details><summary><b>Skills</b></summary>
 <p>
+- #### Technical skills
+Javascript | React | Ruby | Rails | Python | HTML | CSS
+Object-Oriented Design | Test-Driven Development | Testing frameworks (RSpec, Jasmine)
 
 - #### Analysis and logical thinking
 
